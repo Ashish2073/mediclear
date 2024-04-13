@@ -1,0 +1,7 @@
+[16-Dec-2023 09:25:54 UTC] PHP Warning:  require_once(/home/p6mx9558bexc/public_html/mediclear/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/p6mx9558bexc/public_html/mediclear/index.php on line 47
+[16-Dec-2023 09:25:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/p6mx9558bexc/public_html/mediclear/../bootstrap/app.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/p6mx9558bexc/public_html/mediclear/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/p6mx9558bexc/public_html/mediclear/index.php on line 47
+[03-Jan-2024 15:50:23 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.26. in /home/p6mx9558bexc/public_html/mediclear/vendor/composer/platform_check.php on line 24
+[03-Jan-2024 15:50:23 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.26. in /home/p6mx9558bexc/public_html/mediclear/vendor/composer/platform_check.php on line 24
